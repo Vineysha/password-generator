@@ -9,7 +9,7 @@ N/A
 
 ## Usage
 
-Application URL: http://127.0.0.1:5501/index.html
+Application URL: https://vineysha.github.io/password-generator/
  
  When the application opens and you press the generate password button, there will be prompts that will pop up, these will ask you questions on what characters you want included in your password.
 
