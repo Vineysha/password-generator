@@ -40,7 +40,7 @@ function generatePassword(){
 
 function getPrompts(){
  choiceArr = [];
- characterLenght = parseInt(prompt("How long do you want your password to be? (8 - 128 characters"));
+ characterLenght = parseInt(prompt("How long do you want your password to be? (8 - 128 characters)"));
 
  if(isNaN(characterLenght) || characterLenght < 8 || characterLenght > 128) {
    alert ("Sorry! Character lenght needs to be a number. (8 - 128 digits). Try again.");
